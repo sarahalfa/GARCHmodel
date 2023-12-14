@@ -1,1 +1,1 @@
-# GARCHmodel
+algorithmic trading GARCH model 
